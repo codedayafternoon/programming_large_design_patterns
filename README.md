@@ -1,0 +1,1 @@
+Design patterns examples while reading Programming Large Design Patterns book
